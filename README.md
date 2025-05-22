@@ -5,8 +5,6 @@
   <br>
   💻 Passionate about coding and building awesome things
   <br>
-  💬 Ask me anything about from <a href="https://github.com/ertugrulerden/ertugrulerden/issues" title="Issues">Here</a>
-  <br>
   📫 How to reach me: 
   <br>
   <code><a href="https://www.linkedin.com/in/ertugrulerden05/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
@@ -70,15 +68,12 @@
   <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Ordegg-TradeExt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=Ordegg-TradeExt&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Ordegg-TradeExt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=Ordegg-TradeExt&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Uni-Lister">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=Uni-Lister&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Ordegg-TradeExt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=Ordegg-TradeExt&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Ordegg-TradeExt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=Ordegg-TradeExt&theme=react&border_color=61dafb&border_radius=10">
-  </a>
+
+
+  
 </div>
 <br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/>
