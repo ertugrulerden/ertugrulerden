@@ -65,9 +65,15 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
+  <a href="https://github.com/ertugrulerden/autoMultiMailSender" title="Ordegg-TradeExt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=autoMultiMailSender&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  
   <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Ordegg-TradeExt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=Ordegg-TradeExt&theme=react&border_color=61dafb&border_radius=10">
   </a>
+  
   <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Uni-Lister">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=Uni-Lister&theme=react&border_color=61dafb&border_radius=10">
   </a>
