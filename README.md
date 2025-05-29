@@ -66,7 +66,7 @@
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
 
-  <a href="https://github.com/ertugrulerden/autoMultiMailSender" title="Ordegg-TradeExt">
+  <a href="https://github.com/ertugrulerden/autoMultiMailSender" title="autoMultiMailSender">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=autoMultiMailSender&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
