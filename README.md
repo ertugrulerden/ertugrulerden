@@ -74,7 +74,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=Ordegg-TradeExt&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
-  <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Uni-Lister">
+  <a href="https://github.com/ertugrulerden/Uni-Lister" title="Uni-Lister">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertugrulerden&repo=Uni-Lister&theme=react&border_color=61dafb&border_radius=10">
   </a>
 
