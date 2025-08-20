@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ertugrulerden.ertugrulerden">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ertugrulerden.ertugrulerden"> <br>
 
 <p align="center">
   👋 Hi, I'm Ertugrul Erden, Software Engineering student from Turkey 🇹🇷
