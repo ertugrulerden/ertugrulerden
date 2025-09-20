@@ -20,6 +20,7 @@
   <code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
   <code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
   <code><img title="Flutter" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
   <code><img title="Dart" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
   <code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
