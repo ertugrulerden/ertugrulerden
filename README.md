@@ -41,51 +41,63 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ertugrulerden&theme=react&border=61dafb&hide_border=true" alt="ertugrulerden" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/Pranesh-2005/github-readme-stats-fast" title="GitHub Readme Stats Fast">
-      <img height=200 align="center" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ertugrulerden&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
 
-  <a href="https://ghstats.dev" title="GitHub Profile Stats (ghstats.dev)">
-    <img src="https://ghstats.dev/api/sparkline?username=ertugrulerden&bg=20232a&hide_border=true&title_color=61dafb" alt="Last 30 days github contributions" width="100%"/>
-  </a>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div style="flex: 1 1 280px; max-width: 390px;">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="GitHub streak stats">
+      <img width="390" style="width: 100%; max-width: 390px; height: auto; display: block;" src="https://streak-stats.demolab.com/?user=ertugrulerden&theme=react&border=61dafb&hide_border=true" alt="GitHub streak stats" />
+    </a>
+  </div>
+  <div style="flex: 1 1 280px; max-width: 390px;">
+    <a href="https://github.com/Pranesh-2005/github-readme-stats-fast" title="GitHub Readme Stats Fast">
+      <img width="390" style="width: 100%; max-width: 390px; height: auto; display: block;" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ertugrulerden&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Most used languages" />
+    </a>
+  </div>
+  <div style="flex: 1 1 280px; max-width: 390px;">
+    <a href="https://ghstats.dev" title="GitHub Profile Stats (ghstats.dev)">
+      <img width="390" style="width: 100%; max-width: 390px; height: auto; display: block;" src="https://ghstats.dev/api/sparkline?username=ertugrulerden&bg=20232a&hide_border=true&title_color=61dafb" alt="Last 30 days GitHub contributions" />
+    </a>
+  </div>
+</div>
 
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-
-  <a href="https://github.com/ertugrulerden/autoMultiMailSender" title="autoMultiMailSender">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=autoMultiMailSender&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-
-  <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Ordegg-TradeExt">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=Ordegg-TradeExt&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-
-  <a href="https://github.com/ertugrulerden/Uni-Lister" title="Uni-Lister">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=Uni-Lister&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-
-  <a href="https://github.com/ertugrulerden/encrypted-pwd-manager" title="encrypted-pwd-manager">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=encrypted-pwd-manager&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-
-  <a href="https://github.com/ertugrulerden/rustune" title="rustune">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=rustune&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ertugrulerden/autoMultiMailSender" title="autoMultiMailSender">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=autoMultiMailSender&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ertugrulerden/Ordegg-TradeExt" title="Ordegg-TradeExt">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=Ordegg-TradeExt&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ertugrulerden/Uni-Lister" title="Uni-Lister">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=Uni-Lister&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ertugrulerden/encrypted-pwd-manager" title="encrypted-pwd-manager">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=encrypted-pwd-manager&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ertugrulerden/rustune" title="rustune">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=rustune&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <h4 align="center">
