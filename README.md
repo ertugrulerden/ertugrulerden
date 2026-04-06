@@ -42,22 +42,28 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 16px;">
-  <div style="flex: 1 1 280px; max-width: 390px;">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="GitHub streak stats">
-      <img width="390" style="width: 100%; max-width: 390px; height: auto; display: block;" src="https://streak-stats.demolab.com/?user=ertugrulerden&theme=react&border=61dafb&hide_border=true" alt="GitHub streak stats" />
-    </a>
-  </div>
-  <div style="flex: 1 1 280px; max-width: 390px;">
-    <a href="https://github.com/Pranesh-2005/github-readme-stats-fast" title="GitHub Readme Stats Fast">
-      <img width="390" style="width: 100%; max-width: 390px; height: auto; display: block;" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ertugrulerden&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Most used languages" />
-    </a>
-  </div>
-  <div style="flex: 1 1 280px; max-width: 390px;">
-    <a href="https://ghstats.dev" title="GitHub Profile Stats (ghstats.dev)">
-      <img width="390" style="width: 100%; max-width: 390px; height: auto; display: block;" src="https://ghstats.dev/api/sparkline?username=ertugrulerden&bg=20232a&hide_border=true&title_color=61dafb" alt="Last 30 days GitHub contributions" />
-    </a>
-  </div>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="GitHub streak stats">
+        <img width="390" src="https://streak-stats.demolab.com/?user=ertugrulerden&theme=react&border=61dafb&hide_border=true" alt="GitHub streak stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Pranesh-2005/github-readme-stats-fast" title="GitHub Readme Stats Fast">
+        <img width="390" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ertugrulerden&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Most used languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://ghstats.dev" title="GitHub Profile Stats (ghstats.dev)">
+        <img width="390" src="https://ghstats.dev/api/sparkline?username=ertugrulerden&bg=20232a&hide_border=true&title_color=61dafb" alt="Last 30 days GitHub contributions" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <hr>
