@@ -9,7 +9,7 @@
   <br>
   <code><a href="https://www.linkedin.com/in/ertugrulerden05/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
   <br>
-  <code><a href="mailto:ertugrul@erden.work" title="Email"><img width="22" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg"> ertugrul@erden.work</a></code>
+  <code><a href="mailto:ertugrulerden05@gmail.com" title="Email"><img width="22" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg"> Mail </a></code>
 </p>
 
 <hr>
