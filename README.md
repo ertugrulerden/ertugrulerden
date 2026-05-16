@@ -12,7 +12,7 @@
   <code><a href="mailto:ertugrulerden05@gmail.com" title="Email"><img width="22" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg"> Mail </a></code>
 </p>
 
-<hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -37,7 +37,7 @@
   <code><img title="Browser Extension" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></code>
 
 </p>
-<hr>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -66,7 +66,7 @@
 </table>
 </div>
 
-<hr>
+
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -86,18 +86,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <a href="https://github.com/ertugrulerden/autoMultiMailSender" title="autoMultiMailSender">
         <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=autoMultiMailSender&theme=react&border_color=61dafb&border_radius=10">
-      </a>
-    </td>
-  </tr>
-  
-  
-  <tr>
-    <td>
-      <a href="https://github.com/ertugrulerden/Uni-Lister" title="Uni-Lister">
-        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=Uni-Lister&theme=react&border_color=61dafb&border_radius=10">
       </a>
     </td>
     <td>
@@ -107,7 +98,12 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
+      <a href="https://github.com/ertugrulerden/Uni-Lister" title="Uni-Lister">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=Uni-Lister&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/ertugrulerden/rustune" title="rustune">
         <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=rustune&theme=react&border_color=61dafb&border_radius=10">
       </a>
