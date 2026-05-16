@@ -85,6 +85,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ertugrulerden/autoMultiMailSender" title="autoMultiMailSender">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ertugrulerden&repo=autoMultiMailSender&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+  </tr>
   
   
   <tr>
